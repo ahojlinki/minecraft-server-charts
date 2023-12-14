@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "5673d1d9-d94f-369f-bcaf-42ca29ba721b",
+    "name": "ahojlinki",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "381e9a46-72ca-3d2e-87f6-d35f9b4ad05c",
+    "name": "teri",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a1219b87-e997-3703-89c5-0874327bd27b",
+    "name": "Terka",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -165,7 +165,7 @@ minecraftServer:
   # A comma-separated list of player names who should be admins.
   ops: 
   # A server icon URL for server listings. Auto-scaled and transcoded.
-  icon:
+  icon: https://www.mrk.cz/Data/Otazky/654602.jpg
   # Max connected players.
   maxPlayers: 20
   # This sets the maximum possible size in blocks, expressed as a radius, that the world border can obtain.

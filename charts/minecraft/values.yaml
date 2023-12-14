@@ -195,7 +195,7 @@ minecraftServer:
   # Sets the area that non-ops can not edit (0 to disable)
   spawnProtection: 16
   # Max view distance (in chunks).
-  viewDistance: 10
+  viewDistance: 20
   # Define this if you want a specific map generation seed.
   levelSeed: "-8985846747452277621"
   # One of: creative, survival, adventure, spectator

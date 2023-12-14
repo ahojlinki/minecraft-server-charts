@@ -201,7 +201,7 @@ minecraftServer:
   # One of: creative, survival, adventure, spectator
   gameMode: survival
   # Message of the Day
-  motd: "Welcome to Minecraft on Kubernetes!"
+  motd: "\u00a72\u00a7lV\u00edtej \u00a7a\u00a7lna \u00a72\u00a7lserveru \u00a7e\u00a7l\u00a7nSuch\u00fd\u00a7e \u00a76\u00a7l\u00a7nRohl\u00edk\u00a7f \u263b\u00a7r\n\u00a74\u00a7l!!! \u00a74Jestli jsi Tom\u00e1\u0161 nebo Mirek tak t\u00e1hni do pekla \u00a74\u00a7l!!!"
   # If true, enable player-vs-player damage.
   pvp: default
   # One of: DEFAULT, FLAT, LARGEBIOMES, AMPLIFIED, CUSTOMIZED

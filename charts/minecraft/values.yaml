@@ -137,7 +137,7 @@ minecraftServer:
   # One of: LATEST, SNAPSHOT, or a specific version (ie: "1.7.9").
   version: "1.20.2"
   # This can be one of "VANILLA", "FORGE", "SPIGOT", "BUKKIT", "PAPER", "FTBA", "SPONGEVANILLA", "CURSEFORGE"
-  type: "SPIGOT"
+  type: "VANILLA"
   # If type is set to FORGE, this sets the version; this is ignored if forgeInstallerUrl is set
   forgeVersion:
   # If type is set to SPONGEVANILLA, this sets the version
@@ -163,7 +163,7 @@ minecraftServer:
   # A comma-separated list of player names to whitelist.
   whitelist:
   # A comma-separated list of player names who should be admins.
-  ops:
+  ops: data/ops.json
   # A server icon URL for server listings. Auto-scaled and transcoded.
   icon:
   # Max connected players.

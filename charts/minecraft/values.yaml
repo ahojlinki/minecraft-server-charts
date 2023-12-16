@@ -167,7 +167,7 @@ minecraftServer:
   # A server icon URL for server listings. Auto-scaled and transcoded.
   icon: https://www.mrk.cz/Data/Otazky/654602.jpg
   # Max connected players.
-  maxPlayers: 20
+  maxPlayers: 10
   # This sets the maximum possible size in blocks, expressed as a radius, that the world border can obtain.
   maxWorldSize: 10000
   # Allows players to travel to the Nether.

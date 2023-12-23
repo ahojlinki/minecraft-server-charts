@@ -506,7 +506,7 @@ mcbackup:
 
   resources:
     requests:
-      memory: 1024Mi
+      memory: 512Mi
       cpu: 500m
 
   persistence:
